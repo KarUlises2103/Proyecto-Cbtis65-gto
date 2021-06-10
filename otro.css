@@ -1,0 +1,36 @@
+body { background-image: url(prueba.jpg); 
+	font-family: arial;
+}
+h1 { color: #3BCB39;
+	font-family: arial;
+	text-align: center; }
+h2 {
+	color: #FFFFFF;
+	font-family: arial;
+	text-align: center;
+}
+h3 {
+	text-align: left;
+	color: #FFFFFF;
+	font-family: arial;
+}
+h4 { text-align: center;
+	color: #FFFFFF;
+	font-family: arial; }
+
+p{ font-family: arial;
+text-align: center;
+color: #000000; }
+a { font-family: calibri;
+	color: blue; }
+img { width: 350px; 
+			height: 300px;
+			display: block;
+			margin: auto;}
+#das { text-align: center;
+		color: #3BCB39; }
+#des { text-align: left;
+		color: #000000; }
+
+#dis { text-align: left;
+		 }

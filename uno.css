@@ -1,0 +1,46 @@
+body { background-image: url(prueba.jpg); }
+
+#menu { text-align: center;
+		font-family: calibri;
+		
+		font-size: 20px;
+		padding: 0px; 
+	}
+a { color: blue; }
+
+.centro { display: block;
+	margin: 0 auto;
+	padding: 20px;
+	background-color: #FFFFFF;
+	width:1200px;
+	height: 1010px;
+	border-radius: 25px; }
+.centro td { display: block;
+ 	width: 1100px;
+ 	height: 80px;
+ 	}
+.centro tr { text-align: center; }
+
+
+		 
+		}
+#titulo {font-family: calibri;
+			font-size: 100px;}
+
+h1 { text-align: center;
+font-size: 100px;
+color: #3BCB39  ;
+font-family: calibri; }
+h3{ text-align: center;
+font-size: 50px;
+color: #3BCB39  ;
+font-family: calibri; }
+
+.centro img { border: silver 30px solid;
+  border-image-source: url("3.png");
+  border-image-slice: 40;
+  border-image-repeat: repeat;
+   }
+
+		
+
